@@ -1,0 +1,5 @@
+{
+  "name": "CTF Copilot",
+  "description": "A cybersecurity and CTF challenge solver assistant supporting local (Ollama) and online (DeepSeek/Qwen) models.",
+  "requestFramePermissions": []
+}
